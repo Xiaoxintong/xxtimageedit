@@ -6,12 +6,12 @@
     <application>
 
         <activity
-            android:name=".IMGGalleryActivity"
+            android:name=".XXTIMGGalleryActivity"
             android:theme="@style/ImageGalleryTheme" />
 
         <activity
-            android:name=".IMGEditActivity"
-            android:theme="@style/ImageEditTheme"
+            android:name=".XXTIMGEditActivity"
+            android:theme="@style/XXTImageEditTheme"
             android:windowSoftInputMode="stateAlwaysHidden" />
 
     </application>
